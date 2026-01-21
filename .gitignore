@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ESDP HW2 outputs (do not version control large results)
+hw2/output/
+hw2/**/*.zarr
+hw2/**/*.nc
+hw2/**/*.grib
+hw2/**/*.grb
